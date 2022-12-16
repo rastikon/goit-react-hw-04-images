@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/rastikon/goit-react-hw-04-images/static/css/main.214046f1.css",
+    "main.js": "/rastikon/goit-react-hw-04-images/static/js/main.8b8b7e0f.js",
+    "static/media/Search.svg": "/rastikon/goit-react-hw-04-images/static/media/Search.e95e7e7dbc6e1883ebd9.svg",
+    "index.html": "/rastikon/goit-react-hw-04-images/index.html",
+    "main.214046f1.css.map": "/rastikon/goit-react-hw-04-images/static/css/main.214046f1.css.map",
+    "main.8b8b7e0f.js.map": "/rastikon/goit-react-hw-04-images/static/js/main.8b8b7e0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.214046f1.css",
+    "static/js/main.8b8b7e0f.js"
+  ]
+}
